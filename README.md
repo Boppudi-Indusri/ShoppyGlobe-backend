@@ -20,3 +20,4 @@ shoppyglobe-backend/
 │  └─ errorHandler.js
 └─ README.md
 
+Author name:Boppudi Indu Sri
